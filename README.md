@@ -39,23 +39,25 @@ Though we done have any plugins still few changes can be made by the user. The c
 ### Demo
 1. Downlaod the [file](https://github.com/Rahulsingh190792/SSPackage) property.config and SSPackage from git and place them in any directory
 
-![](SShot/SShot1.JPG)
+<!-- ![](SShot/SShot1.JPG) -->
 <img src="SShot/SShot1.JPG" width=600 >
 
 2. launch the app by double clicking SSPackage.exe, a blank  window will be displayed 
 
-![](SShot/SShot2.png) 
+<!-- ![](SShot/SShot2.png)  -->
+<img src="SShot/SShot2.png" width=600 >
 
 3. After few second file explorer window will open, please mention the file name with extension (screenshot will be saved in this file) and click save.
 
-![](SShot/SShot3.JPG) 
-
+<!-- ![](SShot/SShot3.JPG)  -->
+<img src="SShot/SShot3.JPG" width=600 >
 4. Now you can select the window which is to be captured and press cntl+q (this is set by default and can be changed, refer the Plugins section of README.md). You are done!!!!
 
 5. Once you have captured the screenshot you can press cntl+m to save and exit the application.
 Below is the image from the SShot.docx.
 
-![](SShot/SShot4.png) 
+<!-- ![](SShot/SShot4.png)  -->
+<img src="SShot/SShot4.png" width=600 >
 
 ---
 
