@@ -7,7 +7,7 @@
 - [License](#License)
 ---
 
-# Discription
+### Discription
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 SSPackage is a software which is used to capture screenshot of active/current window and is pretty useful when we have to capture multiple screenshot for different reason.
