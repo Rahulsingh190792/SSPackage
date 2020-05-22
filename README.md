@@ -23,11 +23,11 @@ Though we done have any plugins still few changes can be made by the user. The c
 ### Demo
 1. Downlaod the [file](https://github.com/Rahulsingh190792/SSPackage) property.config and SSPackage from git and place them in any directory
 
-![](https://drive.google.com/uc?export=view&id=1fLmgqEdbzu1MHs0yIjPU1RMZasHLXD8v)
+![](SShot/SShot1.JPG)
 
 2. launch the app by double clicking SSPackage.exe, a blank  window will be displayed 
 
-![](https://drive.google.com/uc?export=view&id=1GLvU_e5qRL6r1nkvf62sF22vEcqrcP8a) 
+![](SShot/SShot2.png) 
 
 3. After few second file explorer window will open, please mention the file name with extension (screenshot will be saved in this file) and click save.
 
