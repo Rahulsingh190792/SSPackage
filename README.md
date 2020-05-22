@@ -40,7 +40,7 @@ Though we done have any plugins still few changes can be made by the user. The c
 1. Downlaod the [file](https://github.com/Rahulsingh190792/SSPackage) property.config and SSPackage from git and place them in any directory
 
 ![](SShot/SShot1.JPG)
-<img src="SShot/SShot1.JPG" width=50>
+<img src="SShot/SShot1.JPG" width=200 >
 
 2. launch the app by double clicking SSPackage.exe, a blank  window will be displayed 
 
