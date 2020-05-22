@@ -5,18 +5,21 @@
 - [Plugins](#Plugins)
 - [Demo](#Demo)
 - [License](#License)
+
 ---
 
 ### Discription
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 SSPackage is a software which is used to capture screenshot of active/current window and is pretty useful when we have to capture multiple screenshot for different reason.
+
 ---
 
 ### Installation
 
 SSPackage is supported only on windows platform.
 SSPackage doesn't require installation, you can download it directly from [GitHub](https://github.com/Rahulsingh190792/SSPackage) and start using it.
+
 ---
 
 ### Plugins
@@ -30,6 +33,7 @@ Though we done have any plugins still few changes can be made by the user. The c
 | KeyAbort | Once your activity is completed and you want to close the application | ctrl+m |
 | Width & Height | You can define the size of the Screenshot |  |
 | text | This parameter defines what message should be displayed below the screenshot | fig- |
+
 ---
 
 ### Demo
@@ -51,6 +55,7 @@ Though we done have any plugins still few changes can be made by the user. The c
 Below is the image from the SShot.docx.
 
 ![](SShot/SShot4.png) 
+
 ---
 
 ## License
