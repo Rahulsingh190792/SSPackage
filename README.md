@@ -39,3 +39,9 @@ Though we done have any plugins still few changes can be made by the user. The c
 Below is the image from the SShot.docx.
 
 ![](SShot/SShot4.png) 
+
+
+License
+----
+
+MIT
