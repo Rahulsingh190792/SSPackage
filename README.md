@@ -17,7 +17,7 @@ SSPackage is a software which is used to capture screenshot of active/current wi
 
 ### Installation
 
-SSPackage is supported only on windows platform.
+SSPackage is supported only on windows platform and has been tested on Windows 10  
 SSPackage doesn't require installation, you can download it directly from [GitHub](https://github.com/Rahulsingh190792/SSPackage) and start using it.
 
 ---
