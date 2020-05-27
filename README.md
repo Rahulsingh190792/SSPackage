@@ -48,7 +48,7 @@ Though we do not have any plugins still few changes can be made by the user. The
 <img src="SShot/SShot2.png" width=600 >
 
 3. After few second file explorer window will open, please mention the file name with extension (screenshot will be saved in this file) and click save.
-   Note: If it take too much time to launch the explorer window, you may also launch the SSPackage.exe directly from the Package directory.(It is the faster approach)  
+Note: If it take too much time to launch the explorer window, you may also launch the SSPackage.exe directly from the Package directory.(It is the faster approach)  
 
 <!-- ![](SShot/SShot3.JPG)  -->
 <img src="SShot/SShot3.JPG" width=600 >
