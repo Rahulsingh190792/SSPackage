@@ -25,7 +25,7 @@ SSPackage doesn't require installation, you can download it directly from [GitHu
 ### Plugins
 
 SSPackage is currently not extended with plugins but we might come up with few extended plugins in future.
-Though we done have any plugins still few changes can be made by the user. The changes needs to be made on properties.configuration file
+Though we do not have any plugins still few changes can be made by the user. The changes needs to be made on properties.configuration file
 
 | Keys | Meaning | Default Key |
 | ------ | ------ | ------ |
@@ -37,7 +37,7 @@ Though we done have any plugins still few changes can be made by the user. The c
 ---
 
 ### Demo
-1. Downlaod the [file](https://github.com/Rahulsingh190792/SSPackage) property.config and SSPackage from git and place them in any directory
+1. Downlaod the [file](https://github.com/Rahulsingh190792/SSPackage) property.config and SSPackage from git and place them in any directory.
 
 <!-- ![](SShot/SShot1.JPG) -->
 <img src="SShot/SShot1.JPG" width=600 >
@@ -48,6 +48,7 @@ Though we done have any plugins still few changes can be made by the user. The c
 <img src="SShot/SShot2.png" width=600 >
 
 3. After few second file explorer window will open, please mention the file name with extension (screenshot will be saved in this file) and click save.
+   Note: If it take too much time to launch the explorer window, you may also launch the SSPackage.exe directly from the Package directory.(It is the faster approach)  
 
 <!-- ![](SShot/SShot3.JPG)  -->
 <img src="SShot/SShot3.JPG" width=600 >
